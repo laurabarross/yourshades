@@ -3,7 +3,8 @@ body{background-color: rgba(137, 11, 240, 0.829);
 h1{background-color: rgb(255, 255, 255);}
 h1{background-image: url(lupa.png);
     background-position: right;
-    background-repeat: no-repeat}
+    background-repeat: no-repeat
+    background-size: 90px 90px;}
     h1{width: 1000px; height: 30px}
   h1{position: left;}
    
